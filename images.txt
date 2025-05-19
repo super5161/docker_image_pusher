@@ -11,7 +11,8 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #stephenhsu/trac
 #minio/minio
-ollama/ollama
+#ollama/ollama
+mcr.microsoft.com/dotnet/aspire-dashboard:9.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
