@@ -12,10 +12,11 @@
 #stephenhsu/trac
 #minio/minio
 #ollama/ollama
-mcr.microsoft.com/dotnet/aspire-dashboard:9.0
+#mcr.microsoft.com/dotnet/aspire-dashboard:9.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+docker.n8n.io/n8nio/n8n:latest
 
