@@ -19,5 +19,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # docker.n8n.io/n8nio/n8n:latest
-rancher/rancher:stable
+# rancher/rancher:stable
+mcr.microsoft.com/dotnet/aspire-dashboard:latest
 
