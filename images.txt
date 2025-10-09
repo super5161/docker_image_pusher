@@ -20,5 +20,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # docker.n8n.io/n8nio/n8n:latest
 # rancher/rancher:stable
-mcr.microsoft.com/dotnet/aspire-dashboard:latest
+# mcr.microsoft.com/dotnet/aspire-dashboard:latest
+ghcr.io/lunatechlab/moontv:latest
 
