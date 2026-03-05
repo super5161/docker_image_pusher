@@ -26,4 +26,5 @@
 #redis:alpine
 #maven:3.9-eclipse-temurin-17
 #eclipse-temurin:17-jre
-node:22-slim
+#node:22-slim
+node:22-alpine
