@@ -23,5 +23,5 @@
 # mcr.microsoft.com/dotnet/aspire-dashboard:latest 2
 #swr.cn-north-4.myhuaweicloud.com/ddn-k8s/ghcr.io/senshinya/moontv:latest
 #mysql:8.0
-redis:alpine
-
+#redis:alpine
+maven:3.9-eclipse-temurin-17
