@@ -22,5 +22,6 @@
 # rancher/rancher:stable
 # mcr.microsoft.com/dotnet/aspire-dashboard:latest 2
 #swr.cn-north-4.myhuaweicloud.com/ddn-k8s/ghcr.io/senshinya/moontv:latest
-mysql:8.0
+#mysql:8.0
+redis:alpine
 
